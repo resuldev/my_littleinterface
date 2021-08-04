@@ -1,0 +1,5 @@
+<meta>
+<script src="hud.lua" type="client"/>
+<script src="hudserver.lua" type="server"/>
+<file src="fonts/Aharoni.otf"/>
+</meta>
